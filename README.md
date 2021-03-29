@@ -3,6 +3,8 @@
 Fork of : https://github.com/typestack/routing-controllers \
 with this PR merged : https://github.com/typestack/routing-controllers/pull/677
 
+[![Travis](https://img.shields.io/travis/BenjD90/routing-controllers/master.svg)](https://travis-ci.com/github/BenjD90/routing-controllers)
+
 <center>
 <span>English</span> | 
 [中文](./docs/lang/chinese/README.md)
