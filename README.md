@@ -1,9 +1,7 @@
 # routing-controllers
 
-![Build Status](https://github.com/typestack/routing-controllers/workflows/CI/badge.svg)
-[![codecov](https://codecov.io/gh/typestack/routing-controllers/branch/develop/graph/badge.svg)](https://codecov.io/gh/typestack/routing-controllers)
-[![npm version](https://badge.fury.io/js/routing-controllers.svg)](https://badge.fury.io/js/routing-controllers)
-[![Dependency Status](https://david-dm.org/typestack/routing-controllers.svg)](https://david-dm.org/typestack/routing-controllers)
+Fork of : https://github.com/typestack/routing-controllers \
+with this PR merged : https://github.com/typestack/routing-controllers/pull/677
 
 <center>
 <span>English</span> | 
@@ -88,6 +86,7 @@ You can use routing-controllers with [express.js][1] or [koa.js][2].
    and make sure to import it before you use routing-controllers:
 
    ```typescript
+
    ```
 
 3. Install framework:
